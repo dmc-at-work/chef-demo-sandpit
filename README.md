@@ -30,7 +30,7 @@ https://github.com/dmc-at-work/chef-cassandra-kitchen-vagrant.git
 ### Resources
 
 #### Slides
-https://#
+https://github.com/dmc-at-work/chef-demo-sandpit/Chef - 101 - Snapshot - 20180529.pdf
 
 #### Documentation
-https://#
+https://github.com/dmc-at-work/chef-demo-sandpit/Chef 101 Installation and Configuration Guide.pdf
