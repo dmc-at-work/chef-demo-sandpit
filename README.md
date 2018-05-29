@@ -29,4 +29,8 @@ https://github.com/dmc-at-work/chef-cassandra-kitchen-vagrant.git
 
 ### Resources
 
-https://https://github.com/dmc-at-work/
+#### Slides
+https://#
+
+#### Documentation
+https://#
